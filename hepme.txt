@@ -1,0 +1,16 @@
+1. npm init -y
+2. index.js
+3. pkg.json-> scripts-> + => {serve-> "node index.js"}
+4. node -v
+5. To run -> [npm run serve // server, node file]
+
+
+6. npmjs.com -> express =>> npm i express
+7. terminal => npm i express   =>> /pkg.json/dependencies updated with express
+8. gitignore-> node_modules
+
+9.  copy paste from express for importing and using
+
+10. code/extentions/thunder client 
+
+11
